@@ -1,6 +1,4 @@
 ### Hello there
-- 🔭 I’m currently working on improving my assembly and c++ skills
-- 🌱 I’m currently learning reverse engineering
 - 📫 How to reach me: celibistrial@gmail.com
 <!--
 **Celibistrial/Celibistrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on improving my assembly and c++ skills
+- 🌱 I’m currently learning reverse engineering
 -->
