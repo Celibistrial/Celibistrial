@@ -1,5 +1,6 @@
 ### Hello there
 - 📫 How to reach me: celibistrial@gmail.com
+## I use arch btw 
 <!--
 **Celibistrial/Celibistrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
