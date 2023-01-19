@@ -1,6 +1,8 @@
-### Hello there
+<div id="header" align="center"> <h1>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</div>
+
 - 📫 How to reach me: celibistrial@gmail.com
-## I use arch btw 
+## I use <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="35"/> btw
 <!--
 **Celibistrial/Celibistrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
