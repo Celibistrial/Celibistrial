@@ -3,7 +3,8 @@
 
 - 📫 How to reach me: celibistrial@gmail.com
 - 🕸️ My [website](https://celibistrial.github.io/)
-## I use <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="35"/> btw
+ 
+I use arch btw 
 <!--
 **Celibistrial/Celibistrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
