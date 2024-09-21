@@ -3,8 +3,8 @@
 
 - 📫 How to reach me: celibistrial@gmail.com
 - 🕸️ My [website](https://celibistrial.github.io/)
- 
-I use arch btw 
+
+2024 is the year of linux for sure 
 <!--
 **Celibistrial/Celibistrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
